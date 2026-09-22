@@ -1,0 +1,6 @@
+{
+  "baseline_acc": 0.64,
+  "llm_detection_acc": 0.64,
+  "paraphrasing_acc": 0.46,
+  "n": 50
+}

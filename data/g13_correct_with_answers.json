@@ -1,0 +1,5255 @@
+[
+  {
+    "question": "What is the most common blood type in humans? A, B or O?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "most common blood type in humans"
+    ],
+    "final_answer": "A, B, or O",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udd3e",
+      "\u2134",
+      "o letter",
+      "\ud83c\udd5e",
+      "o",
+      "\u24de",
+      "\u24aa",
+      "\ud83c\udd1e",
+      "\uff4f"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What type of creature is a tanager?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of creature is a tanager?"
+    ],
+    "final_answer": "bird",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc25",
+      "modern dinosaurs",
+      "avafauna",
+      "pet bird",
+      "baby birds",
+      "living dinosaurs in australasia",
+      "flying bird",
+      "bird breeding",
+      "nestlings",
+      "ornis",
+      "avialian",
+      "neornithes",
+      "\ud83d\udc26",
+      "aves",
+      "roosting",
+      "nestling",
+      "class aves",
+      "modern bird",
+      "\ud83d\udc24",
+      "avian proteins",
+      "ornithes",
+      "chick bird",
+      "avian reproduction",
+      "living sauropods in africa",
+      "avialan",
+      "roost site",
+      "surviving dinosaurs",
+      "birds mating",
+      "avifauna",
+      "avian dinosaur",
+      "\ud83d\udc23",
+      "living dinosaurs in oceania",
+      "living sauropods",
+      "neornithine",
+      "bird",
+      "modern birds",
+      "birdness",
+      "chick guard stage",
+      "avialians",
+      "birds",
+      "bird reproduction",
+      "avians",
+      "aviala"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many stars are on the national flag of Liberia?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of stars on the national flag of Liberia"
+    ],
+    "final_answer": "1",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1",
+      "one"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Gentoo, Adelie and Macaroni are all species of which bird?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Gentoo, Adelie, Macaroni bird species"
+    ],
+    "final_answer": "penguin",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc27",
+      "penguin eggs",
+      "behavior patterns of adult penguins",
+      "spheniscidae",
+      "penguins",
+      "isabelline penguin",
+      "spheniscinae",
+      "penguines",
+      "sphenisciformes",
+      "penguin",
+      "penguine",
+      "spheniscid\u00e6",
+      "penquins",
+      "penquin",
+      "sphenisiformes",
+      "ptilopteri",
+      "pengiuns",
+      "impennes",
+      "speniscidiformes"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "A throw of which number on each of a pair of dice is known as Snake Eyes?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number on each die that is known as Snake Eyes"
+    ],
+    "final_answer": "1",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1",
+      "one"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "An oropendola is what type of creature?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of creature is an oropendola?"
+    ],
+    "final_answer": "bird",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc25",
+      "modern dinosaurs",
+      "avafauna",
+      "pet bird",
+      "baby birds",
+      "living dinosaurs in australasia",
+      "flying bird",
+      "bird breeding",
+      "nestlings",
+      "ornis",
+      "avialian",
+      "neornithes",
+      "\ud83d\udc26",
+      "aves",
+      "roosting",
+      "nestling",
+      "class aves",
+      "modern bird",
+      "\ud83d\udc24",
+      "avian proteins",
+      "ornithes",
+      "chick bird",
+      "avian reproduction",
+      "living sauropods in africa",
+      "avialan",
+      "roost site",
+      "surviving dinosaurs",
+      "birds mating",
+      "avifauna",
+      "avian dinosaur",
+      "\ud83d\udc23",
+      "living dinosaurs in oceania",
+      "living sauropods",
+      "neornithine",
+      "bird",
+      "modern birds",
+      "birdness",
+      "chick guard stage",
+      "avialians",
+      "birds",
+      "bird reproduction",
+      "avians",
+      "aviala"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What type of creature is a francolin?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of creature is a francolin?"
+    ],
+    "final_answer": "bird",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc25",
+      "modern dinosaurs",
+      "avafauna",
+      "pet bird",
+      "baby birds",
+      "living dinosaurs in australasia",
+      "flying bird",
+      "bird breeding",
+      "nestlings",
+      "ornis",
+      "avialian",
+      "neornithes",
+      "\ud83d\udc26",
+      "aves",
+      "roosting",
+      "nestling",
+      "class aves",
+      "modern bird",
+      "\ud83d\udc24",
+      "avian proteins",
+      "ornithes",
+      "chick bird",
+      "avian reproduction",
+      "living sauropods in africa",
+      "avialan",
+      "roost site",
+      "surviving dinosaurs",
+      "birds mating",
+      "avifauna",
+      "avian dinosaur",
+      "\ud83d\udc23",
+      "living dinosaurs in oceania",
+      "living sauropods",
+      "neornithine",
+      "bird",
+      "modern birds",
+      "birdness",
+      "chick guard stage",
+      "avialians",
+      "birds",
+      "bird reproduction",
+      "avians",
+      "aviala"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the atomic number of Helium?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "atomic number of Helium"
+    ],
+    "final_answer": "2",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "2",
+      "two"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What type of creature is a Kokanee?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of creature is a Kokanee?",
+      "and"
+    ],
+    "final_answer": "Kokanee is a type of fish.",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc1f",
+      "finfish",
+      "marine fish",
+      "fishes or fish",
+      "fisshes",
+      "sick fish",
+      "ichthyofauna",
+      "fishbones",
+      "fishes",
+      "inchthyic",
+      "fush",
+      "fish vs fishes",
+      "fishes versus fish",
+      "fish proteins",
+      "fish or fishes",
+      "fish",
+      "fish biology",
+      "piscines",
+      "ichthyoid",
+      "fin fish",
+      "fish versus fishes",
+      "ichthyes",
+      "fish venoms",
+      "pisces zoology",
+      "fish zoology"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Stinking Bishop is a variety of which fruit?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Stinking Bishop fruit variety"
+    ],
+    "final_answer": "pear",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udf50",
+      "culture of pear",
+      "pyrus",
+      "pearwood",
+      "pear tree",
+      "pear juice",
+      "pear",
+      "pear fruit"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What the note is at the 12th fret of the 1st and 6th strings of a standard-tuned 6-string guitar?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "note at 12th fret of 1st and 6th strings of standard-tuned 6-string guitar"
+    ],
+    "final_answer": "E",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udd34",
+      "\ud83c\udd74",
+      "\ud83c\udd54",
+      "\u24a0",
+      "\uff45",
+      "e",
+      "e letter",
+      "\ud83c\udd14"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which fruit is traditionally used in the recipe for the dessert dish Liverpool Tart?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "fruit used in Liverpool Tart recipe",
+      "fruit used in Liverpool Tart recipe"
+    ],
+    "final_answer": "boiled lemon",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udf4b",
+      "lemon juice",
+      "lemon oil",
+      "citrus limon",
+      "nimbu",
+      "citrus x limon",
+      "lemon",
+      "citrus \u00d7 limon",
+      "lemon fruit",
+      "lemons",
+      "citrus \u00d7limon"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which letter of the Greek alphabet when written looks like a capital P ?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "letter of the Greek alphabet that looks like a capital P"
+    ],
+    "final_answer": "Rho (\u03a1 \u03c1)",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u03c1",
+      "rho greek",
+      "5crho",
+      "\u03c1\u03ce",
+      "rho letter",
+      "rho",
+      "\u03fc",
+      "rho subclass"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What number has the square root (to the nearest four decimal places) of 1.4142? 1; 2; 3; or 4?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number whose square root is 1.4142",
+      "number whose square root is 1.4142",
+      "and",
+      "number whose square root is 1.4142"
+    ],
+    "final_answer": "1.4142",
+    "n_turns": 6,
+    "had_search": true,
+    "gold_answers": [
+      "2",
+      "two"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Planets in our solar system?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "planets in our solar system"
+    ],
+    "final_answer": "Our solar system has eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "8",
+      "eight"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In the Blandings Castle stories by P G Wodehouse, what kind of animal is The Empress of Blandings?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "The Empress of Blandings in Blandings Castle stories by P G Wodehouse"
+    ],
+    "final_answer": "pig",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc3d",
+      "sus genus",
+      "piggeh",
+      "pigs",
+      "\ud83d\udc37",
+      "\ud83d\udc16",
+      "chazer",
+      "pig"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which letter appears in various alphabets in the traditional Wikipedia globe logo?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "letter in various alphabets in the traditional Wikipedia globe logo",
+      "and",
+      "and"
+    ],
+    "final_answer": "W",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udd46",
+      "double u",
+      "w letter",
+      "\ud83c\udd66",
+      "\ud83c\udd26",
+      "double v",
+      "\ud83c\udd86",
+      "double ues",
+      "\u24b2",
+      "double you",
+      "\u24e6",
+      "\uff57",
+      "w"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Ichthyology is a branch of zoology concerning which creatures?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "ichthyology zoology"
+    ],
+    "final_answer": "fish",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc1f",
+      "finfish",
+      "marine fish",
+      "fishes or fish",
+      "fisshes",
+      "sick fish",
+      "ichthyofauna",
+      "fishbones",
+      "fishes",
+      "inchthyic",
+      "fush",
+      "fish vs fishes",
+      "fishes versus fish",
+      "fish proteins",
+      "fish or fishes",
+      "fish",
+      "fish biology",
+      "piscines",
+      "ichthyoid",
+      "fin fish",
+      "fish versus fishes",
+      "ichthyes",
+      "fish venoms",
+      "pisces zoology",
+      "fish zoology"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "To what note is the top string on a six-string guitar normally tuned?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "top string on a six-string guitar tuned to note",
+      "top string on a six-string guitar tuned to"
+    ],
+    "final_answer": "E",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udd34",
+      "\ud83c\udd74",
+      "\ud83c\udd54",
+      "\u24a0",
+      "\uff45",
+      "e",
+      "e letter",
+      "\ud83c\udd14"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"What is a \"\"white dwarf\"\"?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what is a white dwarf?",
+      "what is a white dwarf?",
+      "and"
+    ],
+    "final_answer": "A white dwarf is a type of star that is left behind after a massive star has undergone a supernova explosion. It is the remnant of a star that has exhausted its nuclear fuel and has collapsed under its own gravity, resulting in a dense, hot object with a mass similar to that of the Sun but with a much smaller radius. White dwarfs are characterized by their low mass and high density, and they are often found in the outer layers of a planetary nebula.",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83c\udf1f",
+      "star fission",
+      "star",
+      "intermediate mass star",
+      "stellar diameter",
+      "end of sun",
+      "intermediate mass stars",
+      "massive star",
+      "stars",
+      "stellum",
+      "stellar radius",
+      "wishstar",
+      "intermediate star"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Goliath is the name for a South American spider that eats what?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Goliath spider diet"
+    ],
+    "final_answer": "Fish, small mammals, amphibians, nestling birds, snakes, lizards, crustaceans, water snails, insects, and spiders.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc25",
+      "modern dinosaurs",
+      "avafauna",
+      "pet bird",
+      "baby birds",
+      "living dinosaurs in australasia",
+      "flying bird",
+      "bird breeding",
+      "nestlings",
+      "ornis",
+      "avialian",
+      "neornithes",
+      "\ud83d\udc26",
+      "aves",
+      "roosting",
+      "nestling",
+      "class aves",
+      "modern bird",
+      "\ud83d\udc24",
+      "avian proteins",
+      "ornithes",
+      "chick bird",
+      "avian reproduction",
+      "living sauropods in africa",
+      "avialan",
+      "roost site",
+      "surviving dinosaurs",
+      "birds mating",
+      "avifauna",
+      "avian dinosaur",
+      "\ud83d\udc23",
+      "living dinosaurs in oceania",
+      "living sauropods",
+      "neornithine",
+      "bird",
+      "modern birds",
+      "birdness",
+      "chick guard stage",
+      "avialians",
+      "birds",
+      "bird reproduction",
+      "avians",
+      "aviala"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What will a pescetarian eat that a vegetarian will not?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "pescetarian diet vs vegetarian diet"
+    ],
+    "final_answer": "fish and other seafood",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc1f",
+      "finfish",
+      "marine fish",
+      "fishes or fish",
+      "fisshes",
+      "sick fish",
+      "ichthyofauna",
+      "fishbones",
+      "fishes",
+      "inchthyic",
+      "fush",
+      "fish vs fishes",
+      "fishes versus fish",
+      "fish proteins",
+      "fish or fishes",
+      "fish",
+      "fish biology",
+      "piscines",
+      "ichthyoid",
+      "fin fish",
+      "fish versus fishes",
+      "ichthyes",
+      "fish venoms",
+      "pisces zoology",
+      "fish zoology"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"What is the American name for the board game known in England as \"\"draughts\"\"?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "American name for the board game known in England as \"draughts\""
+    ],
+    "final_answer": "checkers",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u26c0",
+      "draughts",
+      "\u26c1",
+      "\u26c3",
+      "\u26c2",
+      "checkers",
+      "draughts game"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What number on the BeauforT Scale equates to a gale?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number on Beaufort Scale for gale"
+    ],
+    "final_answer": "8",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "8",
+      "eight"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the result of raising any number to the power of zero?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "result of raising any number to the power of zero"
+    ],
+    "final_answer": "1",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1",
+      "one"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which city are the baseball team the Dodgers based?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "city where the baseball team the Dodgers is based"
+    ],
+    "final_answer": "Los Angeles",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "l",
+      "la la land",
+      "el lay",
+      "el pueblo de nuestra se\u00f1ora reina de los \u00e1ngeles de la porciuncula",
+      "el pueblo de la reina de los angeles ca",
+      "nuestra se\u00f1ora la reina de los angeles de porci\u00fancula",
+      "los angeles california united states",
+      "los angelos",
+      "los angeles california usa",
+      "el pueblo de nuestra se\u00f1ora la reina de los \u00e1ngeles de porci\u00fancula",
+      "nuestra senora la reina de los angeles de porciuncula",
+      "brentwood circle",
+      "las angeles",
+      "city of l",
+      "la ca",
+      "geography of los angeles",
+      "la",
+      "englaborg",
+      "lost angeles california",
+      "los angeles united states of america",
+      "los angelas",
+      "los angelos california",
+      "el pueblo de nuestra se\u00f1ora la reina de los \u00e1ngeles del r\u00edo de porci\u00fancula",
+      "loa angeles ca",
+      "72 suburbs in search of city",
+      "los angeles california",
+      "los angeles california us",
+      "angels california",
+      "el pueblo de nuestra senora reina de los angeles de la porciuncula",
+      "city of la",
+      "los angeles ca",
+      "los angeles united states",
+      "city of los angeles california",
+      "los angles",
+      "el pueblo de nuestra senora la reina de los angeles de porciuncula",
+      "los angeles city",
+      "los angels",
+      "un locode uslax",
+      "sister cities of los angeles",
+      "loa angeles california",
+      "el pueblo de la reina de los angeles california",
+      "northern los angeles",
+      "los angeles calif",
+      "los \u00e1ngeles california",
+      "la california",
+      "la city",
+      "environmental issues in los angeles",
+      "geo uslax",
+      "los angeles usa",
+      "city of los angeles",
+      "l ca",
+      "loc uslax",
+      "brentwood circle los angeles ca",
+      "religion in los angeles",
+      "los angeles",
+      "los angeles california u s",
+      "el pueblo de nuestra se\u00f1ora la reina de los angeles del r\u00edo de porci\u00fancula",
+      "uslax"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The Griffith Observatory is situated in what US City?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Griffith Observatory location"
+    ],
+    "final_answer": "Los Angeles",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "l",
+      "la la land",
+      "el lay",
+      "el pueblo de nuestra se\u00f1ora reina de los \u00e1ngeles de la porciuncula",
+      "el pueblo de la reina de los angeles ca",
+      "nuestra se\u00f1ora la reina de los angeles de porci\u00fancula",
+      "los angeles california united states",
+      "los angelos",
+      "los angeles california usa",
+      "el pueblo de nuestra se\u00f1ora la reina de los \u00e1ngeles de porci\u00fancula",
+      "nuestra senora la reina de los angeles de porciuncula",
+      "brentwood circle",
+      "las angeles",
+      "city of l",
+      "la ca",
+      "geography of los angeles",
+      "la",
+      "englaborg",
+      "lost angeles california",
+      "los angeles united states of america",
+      "los angelas",
+      "los angelos california",
+      "el pueblo de nuestra se\u00f1ora la reina de los \u00e1ngeles del r\u00edo de porci\u00fancula",
+      "loa angeles ca",
+      "72 suburbs in search of city",
+      "los angeles california",
+      "los angeles california us",
+      "angels california",
+      "el pueblo de nuestra senora reina de los angeles de la porciuncula",
+      "city of la",
+      "los angeles ca",
+      "los angeles united states",
+      "city of los angeles california",
+      "los angles",
+      "el pueblo de nuestra senora la reina de los angeles de porciuncula",
+      "los angeles city",
+      "los angels",
+      "un locode uslax",
+      "sister cities of los angeles",
+      "loa angeles california",
+      "el pueblo de la reina de los angeles california",
+      "northern los angeles",
+      "los angeles calif",
+      "los \u00e1ngeles california",
+      "la california",
+      "la city",
+      "environmental issues in los angeles",
+      "geo uslax",
+      "los angeles usa",
+      "city of los angeles",
+      "l ca",
+      "loc uslax",
+      "brentwood circle los angeles ca",
+      "religion in los angeles",
+      "los angeles",
+      "los angeles california u s",
+      "el pueblo de nuestra se\u00f1ora la reina de los angeles del r\u00edo de porci\u00fancula",
+      "uslax"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In literature and films Admiral Sir Miles Messery was better known as what?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Admiral Sir Miles Messery in literature and films"
+    ],
+    "final_answer": "Admiral Sir Miles MessMesseri is better known as Marco MessMesseri.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "m",
+      "\u24dc",
+      "\ud83c\udd7c",
+      "m letter",
+      "\ud83c\udd3c",
+      "\u24a8",
+      "\uff4d",
+      "\ud83c\udd1c",
+      "\ud83c\udd5c"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What type of animal is a frogmouth?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of animal is a frogmouth?"
+    ],
+    "final_answer": "bird",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\ud83d\udc25",
+      "modern dinosaurs",
+      "avafauna",
+      "pet bird",
+      "baby birds",
+      "living dinosaurs in australasia",
+      "flying bird",
+      "bird breeding",
+      "nestlings",
+      "ornis",
+      "avialian",
+      "neornithes",
+      "\ud83d\udc26",
+      "aves",
+      "roosting",
+      "nestling",
+      "class aves",
+      "modern bird",
+      "\ud83d\udc24",
+      "avian proteins",
+      "ornithes",
+      "chick bird",
+      "avian reproduction",
+      "living sauropods in africa",
+      "avialan",
+      "roost site",
+      "surviving dinosaurs",
+      "birds mating",
+      "avifauna",
+      "avian dinosaur",
+      "\ud83d\udc23",
+      "living dinosaurs in oceania",
+      "living sauropods",
+      "neornithine",
+      "bird",
+      "modern birds",
+      "birdness",
+      "chick guard stage",
+      "avialians",
+      "birds",
+      "bird reproduction",
+      "avians",
+      "aviala"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which city were the 1984 Summer Olympics held?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "1984 Summer Olympics city",
+      "and",
+      "1984 Summer Olympics city"
+    ],
+    "final_answer": "Los Angeles",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "l",
+      "la la land",
+      "el lay",
+      "el pueblo de nuestra se\u00f1ora reina de los \u00e1ngeles de la porciuncula",
+      "el pueblo de la reina de los angeles ca",
+      "nuestra se\u00f1ora la reina de los angeles de porci\u00fancula",
+      "los angeles california united states",
+      "los angelos",
+      "los angeles california usa",
+      "el pueblo de nuestra se\u00f1ora la reina de los \u00e1ngeles de porci\u00fancula",
+      "nuestra senora la reina de los angeles de porciuncula",
+      "brentwood circle",
+      "las angeles",
+      "city of l",
+      "la ca",
+      "geography of los angeles",
+      "la",
+      "englaborg",
+      "lost angeles california",
+      "los angeles united states of america",
+      "los angelas",
+      "los angelos california",
+      "el pueblo de nuestra se\u00f1ora la reina de los \u00e1ngeles del r\u00edo de porci\u00fancula",
+      "loa angeles ca",
+      "72 suburbs in search of city",
+      "los angeles california",
+      "los angeles california us",
+      "angels california",
+      "el pueblo de nuestra senora reina de los angeles de la porciuncula",
+      "city of la",
+      "los angeles ca",
+      "los angeles united states",
+      "city of los angeles california",
+      "los angles",
+      "el pueblo de nuestra senora la reina de los angeles de porciuncula",
+      "los angeles city",
+      "los angels",
+      "un locode uslax",
+      "sister cities of los angeles",
+      "loa angeles california",
+      "el pueblo de la reina de los angeles california",
+      "northern los angeles",
+      "los angeles calif",
+      "los \u00e1ngeles california",
+      "la california",
+      "la city",
+      "environmental issues in los angeles",
+      "geo uslax",
+      "los angeles usa",
+      "city of los angeles",
+      "l ca",
+      "loc uslax",
+      "brentwood circle los angeles ca",
+      "religion in los angeles",
+      "los angeles",
+      "los angeles california u s",
+      "el pueblo de nuestra se\u00f1ora la reina de los angeles del r\u00edo de porci\u00fancula",
+      "uslax"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many wheels are there on a sulky?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of wheels on a sulky"
+    ],
+    "final_answer": "2 wheels",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "2",
+      "two"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What number on the Beaufort Scale describes the wind as gale",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number on the Beaufort Scale for gale wind"
+    ],
+    "final_answer": "8",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "8",
+      "eight"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which highway was Revisited in a classic 60s album by Bob Dylan?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "highway revisited in Bob Dylan album"
+    ],
+    "final_answer": "Highway 61 Revisited",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "61",
+      "sixty one"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How old was Jimi Hendrix when he died?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Jimi Hendrix age when he died"
+    ],
+    "final_answer": "27",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "27",
+      "twenty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Sun Yat Sen overthrew the emperor in which country establishing a republic after 2000 years of imperial rule?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Sun Yat Sen overthrowing the emperor and establishing a republic after 2000 years of imperial rule",
+      "Sun Yat Sen overthrew the emperor and established a republic after 2000 years of imperial rule",
+      "Sun Yat Sen overthrew the emperor and established a republic after 2000 years of imperial rule"
+    ],
+    "final_answer": "China",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "\u4e2d\u83ef",
+      "zh\u014dnggu\u00f3",
+      "peoples republic of china",
+      "chinese people s republic",
+      "territorial disputes of china",
+      "people s republic of china",
+      "zhongguo",
+      "china peking",
+      "proc",
+      "red china modern",
+      "land of china",
+      "people s republic of china mainland china",
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b",
+      "zhonghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "cihna",
+      "iso 3166 1 cn",
+      "modern day china",
+      "\u4e2d\u56fd",
+      "jhonggu\u00f3",
+      "pr of c",
+      "socialist china",
+      "communist china modern",
+      "chinese pr",
+      "p r of china",
+      "\u4e2d\u534e",
+      "nation of china",
+      "prchina",
+      "pr of china",
+      "state of china",
+      "chaina",
+      "prc china",
+      "china republic 1949",
+      "people s republic of china prc",
+      "people s republic or china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "china people s republic of",
+      "zhonghuarenmingongheguo",
+      "zhonggu\u00f3",
+      "sinic",
+      "china prc",
+      "zhong guo",
+      "zhonghua renmin gongheguo",
+      "red chinese",
+      "pr china",
+      "china s",
+      "chung kuo",
+      "p r china",
+      "homes in china",
+      "p r c",
+      "china",
+      "zhonghua renmin gonghe guo",
+      "china pr",
+      "people s repuublic of china",
+      "\u4e2d\u570b",
+      "china people s republic",
+      "zh\u014dnghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "chungkuo",
+      "prc",
+      "people republic of china"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many medals did the United States win at the 2010 Winter Olympics?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "United States Winter Olympics medals 2010"
+    ],
+    "final_answer": "37",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "37",
+      "thirty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many hundredweight are in a UK ton?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "how many hundredweight are in a UK ton?",
+      "and",
+      "and"
+    ],
+    "final_answer": "20 hundredweight",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "20",
+      "twenty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Sinology is the study of the language, history and culture of which country?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country whose language, history, and culture are studied in Sinology"
+    ],
+    "final_answer": "China",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u4e2d\u83ef",
+      "zh\u014dnggu\u00f3",
+      "peoples republic of china",
+      "chinese people s republic",
+      "territorial disputes of china",
+      "people s republic of china",
+      "zhongguo",
+      "china peking",
+      "proc",
+      "red china modern",
+      "land of china",
+      "people s republic of china mainland china",
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b",
+      "zhonghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "cihna",
+      "iso 3166 1 cn",
+      "modern day china",
+      "\u4e2d\u56fd",
+      "jhonggu\u00f3",
+      "pr of c",
+      "socialist china",
+      "communist china modern",
+      "chinese pr",
+      "p r of china",
+      "\u4e2d\u534e",
+      "nation of china",
+      "prchina",
+      "pr of china",
+      "state of china",
+      "chaina",
+      "prc china",
+      "china republic 1949",
+      "people s republic of china prc",
+      "people s republic or china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "china people s republic of",
+      "zhonghuarenmingongheguo",
+      "zhonggu\u00f3",
+      "sinic",
+      "china prc",
+      "zhong guo",
+      "zhonghua renmin gongheguo",
+      "red chinese",
+      "pr china",
+      "china s",
+      "chung kuo",
+      "p r china",
+      "homes in china",
+      "p r c",
+      "china",
+      "zhonghua renmin gonghe guo",
+      "china pr",
+      "people s repuublic of china",
+      "\u4e2d\u570b",
+      "china people s republic",
+      "zh\u014dnghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "chungkuo",
+      "prc",
+      "people republic of china"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Italy is divided into how many regions?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of regions in Italy"
+    ],
+    "final_answer": "20",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "20",
+      "twenty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Cathay is a poetic name for which far eastern country?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Cathay poetic name"
+    ],
+    "final_answer": "\u4e2d\u56fd",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u4e2d\u83ef",
+      "zh\u014dnggu\u00f3",
+      "peoples republic of china",
+      "chinese people s republic",
+      "territorial disputes of china",
+      "people s republic of china",
+      "zhongguo",
+      "china peking",
+      "proc",
+      "red china modern",
+      "land of china",
+      "people s republic of china mainland china",
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b",
+      "zhonghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "cihna",
+      "iso 3166 1 cn",
+      "modern day china",
+      "\u4e2d\u56fd",
+      "jhonggu\u00f3",
+      "pr of c",
+      "socialist china",
+      "communist china modern",
+      "chinese pr",
+      "p r of china",
+      "\u4e2d\u534e",
+      "nation of china",
+      "prchina",
+      "pr of china",
+      "state of china",
+      "chaina",
+      "prc china",
+      "china republic 1949",
+      "people s republic of china prc",
+      "people s republic or china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "china people s republic of",
+      "zhonghuarenmingongheguo",
+      "zhonggu\u00f3",
+      "sinic",
+      "china prc",
+      "zhong guo",
+      "zhonghua renmin gongheguo",
+      "red chinese",
+      "pr china",
+      "china s",
+      "chung kuo",
+      "p r china",
+      "homes in china",
+      "p r c",
+      "china",
+      "zhonghua renmin gonghe guo",
+      "china pr",
+      "people s repuublic of china",
+      "\u4e2d\u570b",
+      "china people s republic",
+      "zh\u014dnghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "chungkuo",
+      "prc",
+      "people republic of china"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The Earth's Equator is approximately how many millions of metres in length?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "length of Earth's Equator in millions of meters",
+      "length of Earth's Equator in millions of meters"
+    ],
+    "final_answer": "40,000",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "40",
+      "forty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many legs (including arms or pincers according to certain definitions) does a crab have?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of legs a crab has"
+    ],
+    "final_answer": "10",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "10",
+      "ten"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Turkey's internet country TLD (Top Level Domain) code is?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "internet country TLD code for Turkey"
+    ],
+    "final_answer": ".tr",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "tr",
+      "nc tr",
+      "gen tr"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Name Adele's record-breaking 2015 album?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Adele record-breaking 2015 album",
+      "and",
+      "and"
+    ],
+    "final_answer": "\"25\"",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "25",
+      "twenty five"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Lent (Latin Quadragesima) is traditionally a Christian religious fast of how many days?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "how many days is Lent a Christian religious fast?"
+    ],
+    "final_answer": "40 days",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "40",
+      "forty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Cathay is a poetic name for which country?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country with poetic name \"Cathay\""
+    ],
+    "final_answer": "\u4e2d\u56fd",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u4e2d\u83ef",
+      "zh\u014dnggu\u00f3",
+      "peoples republic of china",
+      "chinese people s republic",
+      "territorial disputes of china",
+      "people s republic of china",
+      "zhongguo",
+      "china peking",
+      "proc",
+      "red china modern",
+      "land of china",
+      "people s republic of china mainland china",
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b",
+      "zhonghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "cihna",
+      "iso 3166 1 cn",
+      "modern day china",
+      "\u4e2d\u56fd",
+      "jhonggu\u00f3",
+      "pr of c",
+      "socialist china",
+      "communist china modern",
+      "chinese pr",
+      "p r of china",
+      "\u4e2d\u534e",
+      "nation of china",
+      "prchina",
+      "pr of china",
+      "state of china",
+      "chaina",
+      "prc china",
+      "china republic 1949",
+      "people s republic of china prc",
+      "people s republic or china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "china people s republic of",
+      "zhonghuarenmingongheguo",
+      "zhonggu\u00f3",
+      "sinic",
+      "china prc",
+      "zhong guo",
+      "zhonghua renmin gongheguo",
+      "red chinese",
+      "pr china",
+      "china s",
+      "chung kuo",
+      "p r china",
+      "homes in china",
+      "p r c",
+      "china",
+      "zhonghua renmin gonghe guo",
+      "china pr",
+      "people s repuublic of china",
+      "\u4e2d\u570b",
+      "china people s republic",
+      "zh\u014dnghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "chungkuo",
+      "prc",
+      "people republic of china"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many black keys are there on a standard modern piano?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of black keys on a standard modern piano",
+      "number of black keys on a standard modern piano"
+    ],
+    "final_answer": "36",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "36",
+      "thirty six"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"In what country, between the 1950s and 1980, would one have found \"\"Rusticated Youth\"\"?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country where \"Rusticated Youth\" was found between the 1950s and 1980s",
+      "and",
+      "country where \"Rusticated Youth\" waswas found between the 1950s and 1980s"
+    ],
+    "final_answer": "China",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "\u4e2d\u83ef",
+      "zh\u014dnggu\u00f3",
+      "peoples republic of china",
+      "chinese people s republic",
+      "territorial disputes of china",
+      "people s republic of china",
+      "zhongguo",
+      "china peking",
+      "proc",
+      "red china modern",
+      "land of china",
+      "people s republic of china mainland china",
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b",
+      "zhonghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "cihna",
+      "iso 3166 1 cn",
+      "modern day china",
+      "\u4e2d\u56fd",
+      "jhonggu\u00f3",
+      "pr of c",
+      "socialist china",
+      "communist china modern",
+      "chinese pr",
+      "p r of china",
+      "\u4e2d\u534e",
+      "nation of china",
+      "prchina",
+      "pr of china",
+      "state of china",
+      "chaina",
+      "prc china",
+      "china republic 1949",
+      "people s republic of china prc",
+      "people s republic or china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "china people s republic of",
+      "zhonghuarenmingongheguo",
+      "zhonggu\u00f3",
+      "sinic",
+      "china prc",
+      "zhong guo",
+      "zhonghua renmin gongheguo",
+      "red chinese",
+      "pr china",
+      "china s",
+      "chung kuo",
+      "p r china",
+      "homes in china",
+      "p r c",
+      "china",
+      "zhonghua renmin gonghe guo",
+      "china pr",
+      "people s repuublic of china",
+      "\u4e2d\u570b",
+      "china people s republic",
+      "zh\u014dnghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "chungkuo",
+      "prc",
+      "people republic of china"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Quadrille, a popular card game in the 18th century, is for four players with a deck of how many?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of cards in a deck for Quadrille"
+    ],
+    "final_answer": "40",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "40",
+      "forty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Dragon boat racing, as part of a complex of ceremonies, is thought to have originated where?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "where did dragon boat racing originate"
+    ],
+    "final_answer": "Pearl River Delta region of China's southern Guangdong Province",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u4e2d\u83ef",
+      "zh\u014dnggu\u00f3",
+      "peoples republic of china",
+      "chinese people s republic",
+      "territorial disputes of china",
+      "people s republic of china",
+      "zhongguo",
+      "china peking",
+      "proc",
+      "red china modern",
+      "land of china",
+      "people s republic of china mainland china",
+      "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b",
+      "zhonghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "cihna",
+      "iso 3166 1 cn",
+      "modern day china",
+      "\u4e2d\u56fd",
+      "jhonggu\u00f3",
+      "pr of c",
+      "socialist china",
+      "communist china modern",
+      "chinese pr",
+      "p r of china",
+      "\u4e2d\u534e",
+      "nation of china",
+      "prchina",
+      "pr of china",
+      "state of china",
+      "chaina",
+      "prc china",
+      "china republic 1949",
+      "people s republic of china prc",
+      "people s republic or china",
+      "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+      "china people s republic of",
+      "zhonghuarenmingongheguo",
+      "zhonggu\u00f3",
+      "sinic",
+      "china prc",
+      "zhong guo",
+      "zhonghua renmin gongheguo",
+      "red chinese",
+      "pr china",
+      "china s",
+      "chung kuo",
+      "p r china",
+      "homes in china",
+      "p r c",
+      "china",
+      "zhonghua renmin gonghe guo",
+      "china pr",
+      "people s repuublic of china",
+      "\u4e2d\u570b",
+      "china people s republic",
+      "zh\u014dnghu\u00e1 r\u00e9nm\u00edn g\u00f2ngh\u00e9gu\u00f3",
+      "chungkuo",
+      "prc",
+      "people republic of china"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"Which is the preposition in the sentence \"\"Mary put her dog in the basket\"\"?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "preposition in \"Mary put her dog in the basket\""
+    ],
+    "final_answer": "in",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "in",
+      "in disambiguation",
+      "i n"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which is the highest prime number less than 100?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "highest prime number less than 100"
+    ],
+    "final_answer": "97",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "97",
+      "ninety seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "At what age does an individual first become entitled to a free TV licence?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "age entitlement to free TV licence"
+    ],
+    "final_answer": "75 years old",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "75",
+      "seventy five"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Who directed the film Life of Pi?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "director of Life of Pi"
+    ],
+    "final_answer": "Ang Lee",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "li",
+      "l\u01d0 \u0101n",
+      "lee ang",
+      "ang lee",
+      "\u674e\u5b89"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In1918 women over what age were given the right to vote?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "age limit for women to vote in 1918"
+    ],
+    "final_answer": "30 years old",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "30",
+      "thirty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How old were Jimmi Hendrix, Janis Joplin and Jim Morrison when they died?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Jimmi Hendrix age when he died",
+      "Jimmi Hendrix age when he died",
+      "Jimmi Hendrix age when he died",
+      "Jimmi Hendrix age when he died"
+    ],
+    "final_answer": "Jimmi Hendrix was died at the age of 27, Janis Joplin died at the age of 27, and Jim Morrison died at the age of 27.",
+    "n_turns": 6,
+    "had_search": true,
+    "gold_answers": [
+      "27",
+      "twenty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many books are there in the New Testament of the Bible?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of books in the New Testament of the Bible"
+    ],
+    "final_answer": "27",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "27",
+      "twenty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what month was the attack on Pearl Harbor?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "attack on Pearl Harbor month"
+    ],
+    "final_answer": "December",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "dec",
+      "\u32cb",
+      "decembre",
+      "december",
+      "xber"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which family of insects has species named 'drivers', 'weavers', 'and even individuals called 'soldiers'?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "family of insects with species named 'drivers', 'weavers', and 'soldiers'"
+    ],
+    "final_answer": "Weaver ant",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "ant",
+      "ant trails",
+      "\ud83d\udc1c",
+      "drone ant",
+      "formicidae",
+      "ants communication",
+      "history of ants",
+      "giant ant",
+      "ergate",
+      "ants",
+      "ant trail",
+      "worker ant"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which  constellation contains many bright shining stars, such as Regulus?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "constellation with many bright shining stars, such as Regulus"
+    ],
+    "final_answer": "Leo",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "leo",
+      "pba leo awards"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What do the interior angles of a hexagon add up to in degrees?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "sum of interior angles of a hexagon"
+    ],
+    "final_answer": "TheThe sum of the interior angles of a hexagon is 720 degrees.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "720",
+      "seven hundred and twenty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In the Bible, how many psalms make up the Book of Psalms?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of psalms in the Book of Psalms in the Bible",
+      "and",
+      "number of psalms in the Book of Psalms"
+    ],
+    "final_answer": "150",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "150",
+      "one hundred and fifty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Tintern Abbey, made famous by Wordsworth\u2019s poetry, stands on which river?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Tintern Abbey river",
+      "Tintern Abbey river"
+    ],
+    "final_answer": "Tintern Abbey stands on the River Wye.",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "wye",
+      "wye disambiguation",
+      "wye river"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What kind of dish is the French \u2018pithivier\u2019?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "French 'pithivier' dish"
+    ],
+    "final_answer": "Pithivier is a round, enclosed pie usually made by baking two disks of puff pastry, with filling stuffed in between. It has the appearance of a hump and is traditionally decorated with spiral lines drawn from the top outwards with the point of a knife, and scalloping on the edge. It is named after the French town of Pithiviers, where the dish is commonly assumed to.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "pie",
+      "raspberry pie",
+      "chocolate crust",
+      "savoury pie",
+      "peach pie",
+      "peanut butter pie",
+      "pies",
+      "sweet pie"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In the Hans Christian Andersen tale, what item could a princess feel through 20 mattreses ?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "item a princess could feel through 20 mattresses in Hans Christian Andersen tale"
+    ],
+    "final_answer": "pea",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "pea",
+      "tufuga ta tatau",
+      "sogaimiti",
+      "soga imiti",
+      "pe"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Turin lies on which river?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Turin river",
+      "Turin, Italy",
+      "Turin, Italy river"
+    ],
+    "final_answer": "Po River",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "p o",
+      "po disambiguation",
+      "po"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many suspects are in a normal game of Cluedo?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of suspects in Cluedo game",
+      "number of suspects in Cluedo game"
+    ],
+    "final_answer": "6",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "six",
+      "6"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What was the first airship to cross the Atlantic, in 1919?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "first airship to cross the Atlantic in 1919"
+    ],
+    "final_answer": "R34",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "r34",
+      "r 34",
+      "r34 disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"In David Hockney's painting \"\"Mr and Mrs Clark and Percy\"\", what is Percy?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Percy in David Hockney's painting \"Mr and Mrs Clark and Percy\""
+    ],
+    "final_answer": "Percy is the other cat depicted in David Hockney's painting \"Mr and Mrs Clark and Percy\".",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "cat",
+      "feline asocial aggression",
+      "tom cat",
+      "moggy",
+      "felis cattus domesticus",
+      "domestic cat",
+      "midnight crazies",
+      "felis catus domesticus",
+      "felis catus",
+      "f catus",
+      "pet cat",
+      "feline sexual behavior",
+      "evening crazies",
+      "felis silvestris catus",
+      "asocial aggression",
+      "felis silverstris catus",
+      "felis domesticus catus",
+      "domestic cats",
+      "cats",
+      "goyangi",
+      "housecat",
+      "common housecat",
+      "cat poison",
+      "felis sylvestris catus",
+      "goyang i",
+      "moggie",
+      "felix domesticus",
+      "\ud83d\udc31",
+      "cat baths",
+      "domestic housecats",
+      "domestic feline",
+      "cat animal",
+      "domesticated cat",
+      "house cat",
+      "moggies",
+      "house cats",
+      "felis familiaris",
+      "\ud83d\udc08",
+      "\ud83d\ude3b",
+      "felis silvestris domesticus",
+      "cats have 9 lives",
+      "felis cattus",
+      "f domesticus",
+      "alley cat",
+      "housecats",
+      "felis domesticus"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"Until 2004, when the International Judging System (IJS) (informally called the \"\"Code of Points\"\") was introduced, what was the highest score a judge could award in figure skating for each of the \"\"free skate\"\" and the \"\"short\"\" programmes?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "highest score in figure skating free skate and short programmes before IJS",
+      "highest score in figure skating short programs before IJS",
+      "highest score in figure skating short programs before IJS"
+    ],
+    "final_answer": "216.41",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "six",
+      "6"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What sign of the zodiac is represented by a lion?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "sign of the zodiac represented by a lion"
+    ],
+    "final_answer": "Leo",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "leo",
+      "leo disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Maine Coon, Munchkin, Oriental Shorthair, Persian, Ragamuffin, Russian Blue, Siamese, Siberian, Snowshoe, Sphynx, Tonkinese and Manx are all breeds of what?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "cat breeds"
+    ],
+    "final_answer": "cat registry",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "cat",
+      "feline asocial aggression",
+      "tom cat",
+      "moggy",
+      "felis cattus domesticus",
+      "domestic cat",
+      "midnight crazies",
+      "felis catus domesticus",
+      "felis catus",
+      "f catus",
+      "pet cat",
+      "feline sexual behavior",
+      "evening crazies",
+      "felis silvestris catus",
+      "asocial aggression",
+      "felis silverstris catus",
+      "felis domesticus catus",
+      "domestic cats",
+      "cats",
+      "goyangi",
+      "housecat",
+      "common housecat",
+      "cat poison",
+      "felis sylvestris catus",
+      "goyang i",
+      "moggie",
+      "felix domesticus",
+      "\ud83d\udc31",
+      "cat baths",
+      "domestic housecats",
+      "domestic feline",
+      "cat animal",
+      "domesticated cat",
+      "house cat",
+      "moggies",
+      "house cats",
+      "felis familiaris",
+      "\ud83d\udc08",
+      "\ud83d\ude3b",
+      "felis silvestris domesticus",
+      "cats have 9 lives",
+      "felis cattus",
+      "f domesticus",
+      "alley cat",
+      "housecats",
+      "felis domesticus"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What name has been used on Irish postage stamps since 1922, and on all Irish coinage (including Irish euro coins), on passports and other official state documents issued since 1937?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "name used on Irish postage stamps and official documents"
+    ],
+    "final_answer": "\u00c9ire",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "ire",
+      "ire disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is kept in the sump of a motor car engine?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what is kept in the sump of a motor car engine?"
+    ],
+    "final_answer": "lubricating oil",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "oil",
+      "oils",
+      "thermal oil",
+      "oily",
+      "diathermal oil",
+      "atcvet code qa06ag06",
+      "oil liquid",
+      "petro",
+      "fixed oils",
+      "heat transfer oil",
+      "atc code a06ag06",
+      "\ud83d\udf46"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"In what city did James Joyce's \"\"Ulysses\"\" take place?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "city where James Joyce's \"Ulysses\" takes place",
+      "city where James Joyce Joyce's \"Ulysses\" takes place"
+    ],
+    "final_answer": "Dublin",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "b\u00e1c",
+      "baile atha cliath",
+      "dublin city",
+      "city of dublin",
+      "baile \u00e1tha cliath",
+      "dubl\u00edn",
+      "dyflin",
+      "europe dublin",
+      "dublin",
+      "visitor information for dublin ireland",
+      "city center dublin",
+      "un locode iedub",
+      "weather in dublin",
+      "capital of ireland",
+      "dublin culture",
+      "dublin republic of ireland",
+      "dublin city center",
+      "city centre dublin",
+      "capital of republic of ireland",
+      "central dublin",
+      "dublin ireland",
+      "dubh linn",
+      "dublin city ireland",
+      "dublin city centre",
+      "west dublin",
+      "dublin county dublin"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Cassiterite is a principal ore of which metal?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "cassiterite principal ore metal"
+    ],
+    "final_answer": "tin",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "tin",
+      "tin processing",
+      "tin compounds",
+      "element 50",
+      "stannous",
+      "stannic",
+      "tin element",
+      "sn element",
+      "tin metallurgy",
+      "tin lepsory",
+      "stannous ion"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "On which river does Newport (Gwent) stand?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "river where Newport (Gwent) stands on",
+      "and",
+      "river that Newport (Gwent) stands on"
+    ],
+    "final_answer": "TheThe river that Newport (Gwent) stands on is the River Usk.",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "usk",
+      "unterhaltungssoftware selbstkontrolle"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many dot positions are usually used in each letter of the Braille system?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of dot positions in Braille system"
+    ],
+    "final_answer": "Six",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "six",
+      "6"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which motor manufacturer makes the Cee'd and Picanto models?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "motor manufacturer that makes Cee'd and Picanto models",
+      "motor manufacturer that makes Cee'd and Picanto models"
+    ],
+    "final_answer": "Kia",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "k i",
+      "kia disambiguation",
+      "kia"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"\"\"Known to the Danish as Godthab, what is the capital of Greenland?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "capital of Greenland"
+    ],
+    "final_answer": "Nuuk",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "n\u00fbk",
+      "godthab greenland",
+      "godthab",
+      "godthaab",
+      "greenland s capitol",
+      "n\u00fbk greenland",
+      "capital of greenland",
+      "nuuk",
+      "godth\u00e5b",
+      "america godthab",
+      "godthaab greenland",
+      "nuuk greenland"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "As SNCF is the French railway system, what are the initials for the German Rail network?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "German Rail network initials"
+    ],
+    "final_answer": "DB",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "d b",
+      "db disambiguation",
+      "db"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "With atomic number 50 which element in the periodic table has the shortest name?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "element with atomic number 50 in the periodic table"
+    ],
+    "final_answer": "tin",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "tin",
+      "tins",
+      "tin disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Known as the 'Phoenix Park Murders', the assassination of Lord Frederick Cavendish and Thomas Henry Burke in 1882 occurred in which city?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Phoenix Park Murders 1882 city",
+      "Phoenix Park Murders 1882 city"
+    ],
+    "final_answer": "Dublin",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "b\u00e1c",
+      "baile atha cliath",
+      "dublin city",
+      "city of dublin",
+      "baile \u00e1tha cliath",
+      "dubl\u00edn",
+      "dyflin",
+      "europe dublin",
+      "dublin",
+      "visitor information for dublin ireland",
+      "city center dublin",
+      "un locode iedub",
+      "weather in dublin",
+      "capital of ireland",
+      "dublin culture",
+      "dublin republic of ireland",
+      "dublin city center",
+      "city centre dublin",
+      "capital of republic of ireland",
+      "central dublin",
+      "dublin ireland",
+      "dubh linn",
+      "dublin city ireland",
+      "dublin city centre",
+      "west dublin",
+      "dublin county dublin"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The Luas Tram system serves which European capital city?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Luas Tram system serves which European capital city?"
+    ],
+    "final_answer": "Dublin",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "b\u00e1c",
+      "baile atha cliath",
+      "dublin city",
+      "city of dublin",
+      "baile \u00e1tha cliath",
+      "dubl\u00edn",
+      "dyflin",
+      "europe dublin",
+      "dublin",
+      "visitor information for dublin ireland",
+      "city center dublin",
+      "un locode iedub",
+      "weather in dublin",
+      "capital of ireland",
+      "dublin culture",
+      "dublin republic of ireland",
+      "dublin city center",
+      "city centre dublin",
+      "capital of republic of ireland",
+      "central dublin",
+      "dublin ireland",
+      "dubh linn",
+      "dublin city ireland",
+      "dublin city centre",
+      "west dublin",
+      "dublin county dublin"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Cassiterite is the main ore of which metal?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "main ore of cassiterite"
+    ],
+    "final_answer": "tin",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "tin",
+      "tin processing",
+      "tin compounds",
+      "element 50",
+      "stannous",
+      "stannic",
+      "tin element",
+      "sn element",
+      "tin metallurgy",
+      "tin lepsory",
+      "stannous ion"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many edges are there on a tetrahedron?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of edges on a tetrahedron"
+    ],
+    "final_answer": "6",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "six",
+      "6"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many 'Pockets' would you find on a pool table?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of pockets on a pool table"
+    ],
+    "final_answer": "Six pockets",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "six",
+      "6"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which Irish city is the Abbey Theatre?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Abbey Theatre location in Ireland"
+    ],
+    "final_answer": "Dublin",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "b\u00e1c",
+      "baile atha cliath",
+      "dublin city",
+      "city of dublin",
+      "baile \u00e1tha cliath",
+      "dubl\u00edn",
+      "dyflin",
+      "europe dublin",
+      "dublin",
+      "visitor information for dublin ireland",
+      "city center dublin",
+      "un locode iedub",
+      "weather in dublin",
+      "capital of ireland",
+      "dublin culture",
+      "dublin republic of ireland",
+      "dublin city center",
+      "city centre dublin",
+      "capital of republic of ireland",
+      "central dublin",
+      "dublin ireland",
+      "dubh linn",
+      "dublin city ireland",
+      "dublin city centre",
+      "west dublin",
+      "dublin county dublin"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The preamble to the UN Charter, adopted on June 26, 1945, states We the peoples of the United Nations determined: to save succeeding generations from the scourge of what?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "UN Charter preamble - saving succeeding generations from the scourge of what?"
+    ],
+    "final_answer": "war",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "war",
+      "war disambiguation",
+      "war song",
+      "war film"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what middle east harbor was the destroyer USS Cole attacked by suicide bombers in 2000, resulting in 56 casualties?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "USS Cole attack harbor 2000",
+      "and",
+      "and",
+      "and"
+    ],
+    "final_answer": "Aden harbor",
+    "n_turns": 6,
+    "had_search": true,
+    "gold_answers": [
+      "\u0639\u062f\u0646",
+      "adem ym",
+      "aden ym",
+      "aden",
+      "aden yemen",
+      "adan",
+      "aden craiter",
+      "aden municipality",
+      "little aden"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Brandon Lee died during the making of which movie?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Brandon Lee died during the making of which movie?"
+    ],
+    "final_answer": "\"The Crow\"",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "crow",
+      "crow dead time",
+      "crow 2016 film"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which American state is the Isabella Stewart Gardner Museum?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Isabella Stewart Gardner Museum location"
+    ],
+    "final_answer": "Massachusetts",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "mass",
+      "massachusites",
+      "taxachusetts",
+      "massachusetts state",
+      "bay state",
+      "commonwealth of masachusets",
+      "massachusite",
+      "transportation in massachusetts",
+      "massachusettes",
+      "masachussetts",
+      "massachsuetts",
+      "masshole commonwealth",
+      "massacheusetts",
+      "culture of massachusetts",
+      "massachusetts u s state",
+      "massachussets",
+      "commonwealth of massachussets",
+      "ma state",
+      "commonwealth of masachussetts",
+      "massachusetts culture",
+      "commonwealth of massachussetts",
+      "masachussets",
+      "massachusets",
+      "massachusettsan",
+      "education in massachusetts",
+      "massachus",
+      "us ma",
+      "state of massachusetts",
+      "economy of massachusetts",
+      "massachusetts united states",
+      "6th state",
+      "commonwealth of massachusetts",
+      "massechusetts",
+      "massachusetts",
+      "commonwealth of massachusets",
+      "massechussets",
+      "masschusetts",
+      "transport in massachusetts",
+      "most serene commonwealth of massachusetts",
+      "massachussetts",
+      "commonwealth of masachussets",
+      "masachusetts",
+      "religion in massachusetts",
+      "masachusets",
+      "sixth state",
+      "massitchusits",
+      "commonwealth of masachusetts"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many chambers has the heart?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of chambers in the heart"
+    ],
+    "final_answer": "4",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "four",
+      "4"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the minimum number of darts a person needs to throw to complete a leg from 501?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "minimum number of darts to complete a leg from 501"
+    ],
+    "final_answer": "nine",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "nine",
+      "9"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "For what novel did J. K. Rowling win the 1999 Whitbread Children's book of the year award?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "J. K. Rowling 1999 Whitbread Children's book of the year award novel"
+    ],
+    "final_answer": "\"Harry Potter and the Prisoner of Azkaban\"",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "hp 3",
+      "third harry potter book",
+      "harry potter and prisoner of azkaban book",
+      "prisoner of azkaban",
+      "harry potter and prisoner of azkaban",
+      "hp3",
+      "harry potter iii",
+      "3rd harry potter book",
+      "harry potter prisoner of azkaban",
+      "hppoa",
+      "harry potter and prisoner of azkhaban",
+      "harry potter 3",
+      "hary potter and prisoner of azkaban"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which brand of beer does Homer Simpson drink regularly?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "brand of beer that Homer Simpson drinks regularly"
+    ],
+    "final_answer": "Duff Beer",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "duff",
+      "duff disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which Channel 4 TV show's presenters included Mark Lamarr, Amanda De Cadenet and Terry Christian?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Channel 4 TV show with Mark Lamarr, Amanda De Cadenet, and Terry Christian as presenters",
+      "Channel 4 TV show with Mark Lamarr, Amanda de Cadenet, and Terry Christian as presenters"
+    ],
+    "final_answer": "TheThe Word (TV series)</",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "word",
+      "word film",
+      "word disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What nationality was the painter Vincent Van Gogh?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "nationality of Vincent Van Gogh"
+    ],
+    "final_answer": "Dutch",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "dutc",
+      "dutch",
+      "dutch disambiguation",
+      "dtuch"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many US states are prefixed by the word New?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of US states prefixed by \"New\"",
+      "and",
+      "number of US states prefixed by \"New\""
+    ],
+    "final_answer": "4",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "four",
+      "4"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In Greek mythology, what was the name of the nymph who fell in love with Narcissus, but who was said to have pined away when her love was not returned, leaving only her voice?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "name of the nymph who fell in love with Narcissus and pined away when her love was not returned"
+    ],
+    "final_answer": "Echo",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "echo",
+      "echo acoustics",
+      "reecho",
+      "re echoing",
+      "re echo",
+      "duck s quack",
+      "reechoed",
+      "re echoed",
+      "reechoes",
+      "echo phenomenon",
+      "echoed",
+      "reechoing",
+      "re echoes",
+      "echoing"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did Margaret Thatcher become British Prime Minister?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Margaret Thatcher British Prime Minister year",
+      "Margaret Thatcher Thatcher Thatcher became British Prime Minister year"
+    ],
+    "final_answer": "1979",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1979",
+      "one thousand nine hundred and seventy nine"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "A saluki is which type of animal?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of animal is a saluki?"
+    ],
+    "final_answer": "dog",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "dogs",
+      "doggie",
+      "doggy",
+      "dog",
+      "shedog",
+      "canis domesticus",
+      "she dogs",
+      "canis canis",
+      "canis lupus familiaris",
+      "canis familaris",
+      "female dogs",
+      "domestic dogs",
+      "c l familiaris",
+      "bitch dog",
+      "domestic dog",
+      "pet dog",
+      "man s best friend",
+      "canis familiaris domesticus",
+      "dogs animals",
+      "female dog",
+      "dogs as pets",
+      "dog pet",
+      "dog domestic",
+      "dogs as our pets",
+      "doggies",
+      "shedogs",
+      "canis familiaris",
+      "\ud83d\udc36",
+      "doghood",
+      "canis familiarus domesticus",
+      "shelter dog",
+      "\ud83d\udc15",
+      "dogness",
+      "domestic dog clade",
+      "bitch female dog",
+      "dog hood",
+      "she dog",
+      "canine lupus"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In 1216, English monarch King John was said to have lost the crown jewels while crossing which body of water?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "body of water where King John lost the crown jewels in 1216"
+    ],
+    "final_answer": "The Wash",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "wash",
+      "wash river"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Smoky, Leaf-nosed and Vesper are all species of which creature?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Smoky, Leaf-nosed, and Vesper species"
+    ],
+    "final_answer": "Bats",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "bats",
+      "bat wing",
+      "cheiroptera",
+      "artificial bat roost",
+      "chiropterology",
+      "flinder mouse",
+      "chiropter",
+      "chiropterologist",
+      "chiroptera",
+      "bat groups",
+      "bat species",
+      "bat evolution",
+      "bat life expectancy",
+      "chiroptologist",
+      "chiropteras",
+      "flittermouse",
+      "bat roost",
+      "bat",
+      "barotrauma and wind turbines",
+      "chiropteran",
+      "bat conservation",
+      "bat animal"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many stars are on the national flag of New Zealand?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of stars on the national flag of New Zealand",
+      "number of stars on the national flag of New Zealand"
+    ],
+    "final_answer": "four",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "four",
+      "4"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many square stickers are on each face of a classic Rubik\u2019s Cube?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of square stickers on each face of a classic Rubik\u2019s Cube",
+      "number of square stickers on each face of a classic Rubik\u2019s Cube"
+    ],
+    "final_answer": "9",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "nine",
+      "9"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many players are on the field in a baseball team?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of players on a baseball team"
+    ],
+    "final_answer": "9",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "nine",
+      "9"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which are the only mammals to have wings?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "mammals with wings",
+      "and",
+      "mammals with wings"
+    ],
+    "final_answer": "bats",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "bats",
+      "bat wing",
+      "cheiroptera",
+      "artificial bat roost",
+      "chiropterology",
+      "flinder mouse",
+      "chiropter",
+      "chiropterologist",
+      "chiroptera",
+      "bat groups",
+      "bat species",
+      "bat evolution",
+      "bat life expectancy",
+      "chiroptologist",
+      "chiropteras",
+      "flittermouse",
+      "bat roost",
+      "bat",
+      "barotrauma and wind turbines",
+      "chiropteran",
+      "bat conservation",
+      "bat animal"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Armistice Day (or Remembrance Day) takes place during which month of the year?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "month in which Armistice Day takes place"
+    ],
+    "final_answer": "November",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "9ber",
+      "31 november",
+      "november 31",
+      "month of november",
+      "nobember",
+      "november",
+      "novemeber",
+      "\u32ca",
+      "noviembre",
+      "coyovembyote"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The official birthday of British monarch Queen Elizabeth II falls during which month in the UK?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "month in which Queen Elizabeth II's official birthday falls in the UK"
+    ],
+    "final_answer": "June",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "june",
+      "jun",
+      "\u32c5",
+      "june 31",
+      "junes",
+      "june 31st",
+      "juno german"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "A Malamute is what type of animal?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what type of animal is a Malamute?"
+    ],
+    "final_answer": "dog",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "dogs",
+      "doggie",
+      "doggy",
+      "dog",
+      "shedog",
+      "canis domesticus",
+      "she dogs",
+      "canis canis",
+      "canis lupus familiaris",
+      "canis familaris",
+      "female dogs",
+      "domestic dogs",
+      "c l familiaris",
+      "bitch dog",
+      "domestic dog",
+      "pet dog",
+      "man s best friend",
+      "canis familiaris domesticus",
+      "dogs animals",
+      "female dog",
+      "dogs as pets",
+      "dog pet",
+      "dog domestic",
+      "dogs as our pets",
+      "doggies",
+      "shedogs",
+      "canis familiaris",
+      "\ud83d\udc36",
+      "doghood",
+      "canis familiarus domesticus",
+      "shelter dog",
+      "\ud83d\udc15",
+      "dogness",
+      "domestic dog clade",
+      "bitch female dog",
+      "dog hood",
+      "she dog",
+      "canine lupus"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "All Saints Day is celebrated on the 1st of which month?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "All Saints Day month",
+      "All Saints Day month"
+    ],
+    "final_answer": "November",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "9ber",
+      "31 november",
+      "november 31",
+      "month of november",
+      "nobember",
+      "november",
+      "novemeber",
+      "\u32ca",
+      "noviembre",
+      "coyovembyote"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "A \u2018Beaver Moon\u2019 is the first full moon which occurs during which month of the year?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Beaver Moon month",
+      "Beaver Moon month"
+    ],
+    "final_answer": "November",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "9ber",
+      "31 november",
+      "november 31",
+      "month of november",
+      "nobember",
+      "november",
+      "novemeber",
+      "\u32ca",
+      "noviembre",
+      "coyovembyote"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "British band Lindisfarne had a 1971 hit album entitled \u2018The Fog on the \u2018where\u2019?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "British band Lindisfarne 1971 hit album 'The Fog on the 'where'",
+      "British band Lindisfarne 1971 hit album 'The Fog on the 'where'"
+    ],
+    "final_answer": "Fog on the Tyne",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "tyne",
+      "tyne disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many times did Actress Zsa Zsa Gabor marry?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "how many times did Actress Zsa Zsa Gabor marry?"
+    ],
+    "final_answer": "Nine times",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "nine",
+      "9"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "A quadruped is an animal with how many feet?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "how many feet does a quadruped have?"
+    ],
+    "final_answer": "four",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "four",
+      "4"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many squares does a Rubik\u2019s Cube have on each side?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of squares on each side of a Rubik\u2019s Cube"
+    ],
+    "final_answer": "9",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "nine",
+      "9"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "National Flag Day is celebrated in Estonia during which month of the year?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "National Flag Day in Estonia"
+    ],
+    "final_answer": "June",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "june",
+      "jun",
+      "\u32c5",
+      "june 31",
+      "junes",
+      "june 31st",
+      "juno german"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did children\u2019s television show \u2018Sesame Street\u2019 debut on US television?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "debut year of Sesame Street on US television"
+    ],
+    "final_answer": "1969",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1969",
+      "one thousand nine hundred and sixty nine"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Just north of Bolton, on which English motorway will you find Rivington Services?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "English motorway just north of Bolton with Rivington Services"
+    ],
+    "final_answer": "M61 motorway",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "m 61",
+      "m61 disambiguation",
+      "m61"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Who was the first person in the bible to get drunk?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "first person in the Bible to get drunk"
+    ],
+    "final_answer": "Noah",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "nooh",
+      "nuach",
+      "flood bible",
+      "\u05e0\u05d5\u05b9\u05d7\u05b7",
+      "noah hebrew bible",
+      "no",
+      "noahtic",
+      "noahian",
+      "no ah",
+      "noah and ark",
+      "noah"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The bumblebee or hog-nosed is the smallest mammal in the world - what is it?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "bumblebee or hog-nosed"
+    ],
+    "final_answer": "Kitti's hog-nosed bat",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "bats",
+      "bat wing",
+      "cheiroptera",
+      "artificial bat roost",
+      "chiropterology",
+      "flinder mouse",
+      "chiropter",
+      "chiropterologist",
+      "chiroptera",
+      "bat groups",
+      "bat species",
+      "bat evolution",
+      "bat life expectancy",
+      "chiroptologist",
+      "chiropteras",
+      "flittermouse",
+      "bat roost",
+      "bat",
+      "barotrauma and wind turbines",
+      "chiropteran",
+      "bat conservation",
+      "bat animal"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Heliculture is the farming of what for food?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "heliculture for food",
+      "heliculture for food"
+    ],
+    "final_answer": "land snails",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "ochu",
+      "\ud83d\udc0c",
+      "wallfish",
+      "marine snail",
+      "snails",
+      "snail",
+      "snale",
+      "jono hawkins"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Name the manufacturer of the British World War II bomber the Lancaster",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "manufacturer of the British World War II bomber the Lancaster"
+    ],
+    "final_answer": "Avro",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "avro",
+      "algemene vereniging radio omroep",
+      "toppop3",
+      "avro broadcaster",
+      "avro television"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was the battle of Rorke's Drift?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "battle of Rorke's Drift year",
+      "battle of Rorke's Drift year"
+    ],
+    "final_answer": "1879",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1879",
+      "one thousand eight hundred and seventy nine"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was the ten shilling note withdrawn in the UK following the introduction of the 50p coin ?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "ten shilling note withdrawn in the UK following the introduction of the 50p coin"
+    ],
+    "final_answer": "1970",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1970",
+      "one thousand nine hundred and seventy"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the Southern India savoury steamed cake made of rice and served with chutney?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Southern India savoury steamed cake made of rice and served with chutney"
+    ],
+    "final_answer": "Idli",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "idli",
+      "ramassery idli",
+      "idly",
+      "iddly"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The mountainous and partly lawless province of Nuristan lies in the north-east of which country?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country where Nuristan province is located"
+    ],
+    "final_answer": "Afghanistan",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "stan",
+      "afghanistan 1911 encyclopedia",
+      "afghansitan",
+      "graveyard of empires",
+      "afganistan",
+      "dowlat e eslami ye afghanestan",
+      "af\u011f\u0101nist\u0101n",
+      "afgahanistan",
+      "afghanastan",
+      "afghanstan",
+      "soviet occupied afghanistan",
+      "afgjanistan",
+      "affghanistan",
+      "islamic republic of afghanistan",
+      "i r o",
+      "iroa",
+      "afghanistan rep of",
+      "afghanistan central asia",
+      "jomh\u016br\u012b ye esl\u0101m\u012b ye af\u0121\u0101nest\u0101n",
+      "afeganistao",
+      "islamic transitional government of afghanistan",
+      "afgh\u0101nist\u0101n",
+      "da afghanistan islami dawlat dawlat e eslami e afghanestan",
+      "afghanistan",
+      "afghanistan article from 1911 encyclopedia",
+      "iso 3166 1 af",
+      "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062f\u0648\u0644\u062a \u062f\u0648\u0644\u062a \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afganhistan",
+      "kinetic action",
+      "afghinastan",
+      "etymology of afghanistan",
+      "avghanistaun",
+      "afghnistan",
+      "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afghanistan i s of",
+      "afghanestan",
+      "da af\u0121\u0101nist\u0101n isl\u0101m\u012b jomhoriyat"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the US word for an automotive wheel nut or the brace used to loosen/tighten one?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "US word for automotive wheel nut or brace"
+    ],
+    "final_answer": "lug wrench",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "lugs",
+      "lugged",
+      "lug",
+      "lugging",
+      "lug disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what year was Band-Aid's Do They Know It's Christmas the UK Christmas chart-topping record (bonus point each for the years of reissue success by Band Aid II and Band Aid 20)?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Band-Aid's \"Do They Know It's Christmas\" UK Christmas chart-topping record",
+      "Band-Aid's \"Do They Know It's Christmas\" UK Christmas chart-topping record"
+    ],
+    "final_answer": "1984",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1984",
+      "one thousand nine hundred and eighty four"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the traditional technical term for a road/paving granite block, alternatively called a Belgian block, and incorrectly a cobble or cobblestone?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "traditional technical term for a road/paving granite block"
+    ],
+    "final_answer": "sett",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "sett"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Latin 'collum' refers to which part of the human body?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what does 'collum' refer to in Latin?"
+    ],
+    "final_answer": "neck",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "neck",
+      "human neck",
+      "necke",
+      "collum anatomy",
+      "nuchal"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In the Bible to whom did God give the Ten Commandments?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "who gave the Ten Commandments to God in the Bible",
+      "who gave the Ten Commandments to God in the Bible"
+    ],
+    "final_answer": "Moses",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "m\u014d\u0161\u00e9",
+      "\u0645\u0648\u0633\u0649",
+      "moshe rabbeinu",
+      "names of moses",
+      "mosheh",
+      "saint moses",
+      "mozes",
+      "criticism of moses",
+      "\u05de\u05b9\u05e9\u05b6\u05c1\u05d4 \u05e8\u05b7\u05d1\u05b5\u05bc\u05e0\u05d5\u05bc",
+      "moses",
+      "moshe rabeinu",
+      "moshe rabbenu",
+      "\u05de\u05b9\u05e9\u05b6\u05c1\u05d4",
+      "religion of moses and israel",
+      "\u0645\u0648\u0633\u0649\u0670",
+      "mosaic law disambiguation",
+      "moses in christianity",
+      "m\u00f3she",
+      "israelite moses",
+      "moses our teacher",
+      "mosus",
+      "moses our rabbi"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Where was the first British Grand Prix motor race held?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "first British Grand Prix motor race location"
+    ],
+    "final_answer": "Brooklands",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "eglb",
+      "brooklands race track",
+      "brooklands aerodrome",
+      "brooklands aviation",
+      "brooklands"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did Foinavon win the Grand National?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Foinavon Grand National win year"
+    ],
+    "final_answer": "1967",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1967",
+      "one thousand nine hundred and sixty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "When was the sculpture of the four faces on Mount Rushmore begun?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "when was the sculpture of the four faces on Mount Rushmore begun?",
+      "when was the sculpture of the four faces on Mount Rushmore began"
+    ],
+    "final_answer": "Thethe sculpture of the four faces on Mount Rushmore was began in 1927.",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1927",
+      "one thousand nine hundred and twenty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "From which country was Fulgencio Batista ousted in 1959?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country from which Fulgencio Batista was ousted in 1959"
+    ],
+    "final_answer": "Cuba",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "cuba",
+      "people s republic of cuba",
+      "administrative divisions of cuba",
+      "cuban news agency",
+      "iso 3166 1 cu",
+      "etymology of cuba",
+      "isla juana",
+      "communist cuba",
+      "second republic of cuba",
+      "republic of cuba",
+      "rep\u00fablica de cuba",
+      "cuba island",
+      "republica de cuba",
+      "prehistory of cuba",
+      "red cuba",
+      "name of cuba",
+      "subdivisions of cuba"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which country is the city of Kandahar?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country of Kandahar"
+    ],
+    "final_answer": "Afghanistan",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "stan",
+      "afghanistan 1911 encyclopedia",
+      "afghansitan",
+      "graveyard of empires",
+      "afganistan",
+      "dowlat e eslami ye afghanestan",
+      "af\u011f\u0101nist\u0101n",
+      "afgahanistan",
+      "afghanastan",
+      "afghanstan",
+      "soviet occupied afghanistan",
+      "afgjanistan",
+      "affghanistan",
+      "islamic republic of afghanistan",
+      "i r o",
+      "iroa",
+      "afghanistan rep of",
+      "afghanistan central asia",
+      "jomh\u016br\u012b ye esl\u0101m\u012b ye af\u0121\u0101nest\u0101n",
+      "afeganistao",
+      "islamic transitional government of afghanistan",
+      "afgh\u0101nist\u0101n",
+      "da afghanistan islami dawlat dawlat e eslami e afghanestan",
+      "afghanistan",
+      "afghanistan article from 1911 encyclopedia",
+      "iso 3166 1 af",
+      "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062f\u0648\u0644\u062a \u062f\u0648\u0644\u062a \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afganhistan",
+      "kinetic action",
+      "afghinastan",
+      "etymology of afghanistan",
+      "avghanistaun",
+      "afghnistan",
+      "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afghanistan i s of",
+      "afghanestan",
+      "da af\u0121\u0101nist\u0101n isl\u0101m\u012b jomhoriyat"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Rhinitis is inflammation of the mucus membranes of what?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "what is rhinitis inflammation of?"
+    ],
+    "final_answer": "nose",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "nose",
+      "noses",
+      "schnoz",
+      "smeller",
+      "schnozzle",
+      "schnozz"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What was the name of the Flintstones' pet?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "name of Flintstones' pet"
+    ],
+    "final_answer": "Dino",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "dino"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "John Calvin, 16th century French theologian, was the autocrat of which city for 13 years, where he improved the city and provided harsh punishments for moral transgressions?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "John Calvin autocrat city harsh punishments moral transgressions",
+      "John Calvin autocrat city harsh punishments moral transgressions",
+      "and"
+    ],
+    "final_answer": "Geneva\u00e8ve",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "g\u025bnf",
+      "geneva",
+      "geneva switzerland",
+      "gen\u00e8ve",
+      "geneva ge",
+      "geneva palexpo",
+      "geneva geneva",
+      "genevan",
+      "p\u00e2quis",
+      "geneve",
+      "city of geneva",
+      "un locode chgva",
+      "g\u00e9n\u00e8ve",
+      "genevese",
+      "geneva ch ge",
+      "genf"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"What entertainment venue in New York City's Rockefeller Center, nicknamed \"\"the Showplace of the Nation\"\", opened to the public in December 1932?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "entertainment venue in New York City's Rockefeller Center that opened in December 1932",
+      "entertainment venue in New York City's Rockefeller Center that opened in December 1932",
+      "and"
+    ],
+    "final_answer": "Radio City Music Hall",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "rcmh",
+      "radio city music hall",
+      "international music hall"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The Battle of Ghuznee in 1839 took place between the armies of Great Britain and which other country?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Battle of Ghuznee in 1839"
+    ],
+    "final_answer": "AfghanistanAfghanistan",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "stan",
+      "afghanistan 1911 encyclopedia",
+      "afghansitan",
+      "graveyard of empires",
+      "afganistan",
+      "dowlat e eslami ye afghanestan",
+      "af\u011f\u0101nist\u0101n",
+      "afgahanistan",
+      "afghanastan",
+      "afghanstan",
+      "soviet occupied afghanistan",
+      "afgjanistan",
+      "affghanistan",
+      "islamic republic of afghanistan",
+      "i r o",
+      "iroa",
+      "afghanistan rep of",
+      "afghanistan central asia",
+      "jomh\u016br\u012b ye esl\u0101m\u012b ye af\u0121\u0101nest\u0101n",
+      "afeganistao",
+      "islamic transitional government of afghanistan",
+      "afgh\u0101nist\u0101n",
+      "da afghanistan islami dawlat dawlat e eslami e afghanestan",
+      "afghanistan",
+      "afghanistan article from 1911 encyclopedia",
+      "iso 3166 1 af",
+      "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062f\u0648\u0644\u062a \u062f\u0648\u0644\u062a \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afganhistan",
+      "kinetic action",
+      "afghinastan",
+      "etymology of afghanistan",
+      "avghanistaun",
+      "afghnistan",
+      "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afghanistan i s of",
+      "afghanestan",
+      "da af\u0121\u0101nist\u0101n isl\u0101m\u012b jomhoriyat"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Project SCORE, the worlds first communications satellite, was launched when?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "launch date of Project SCORE",
+      "launch date of Project SCORE"
+    ],
+    "final_answer": "1958",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1958",
+      "one thousand nine hundred and fifty eight"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What type of building is likely to have a minaret?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "type of building likely to have a minaret"
+    ],
+    "final_answer": "mosque",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "\u0645\u0633\u062c\u062f",
+      "islamic center",
+      "masajids",
+      "\ud83d\udd4c",
+      "masajid",
+      "mosques",
+      "mas\u01e7id",
+      "mosque",
+      "mosjid",
+      "masjid",
+      "masjids",
+      "mosque to do",
+      "mosqu",
+      "masgid",
+      "masjed",
+      "mousqes",
+      "mosgid"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The Sagrada Famlia in Barcelona, which began construction in 1882, was consecrated and declared a basilica by the Pope in what year?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Sagrada Familia consecration and declaration of basilica by Pope"
+    ],
+    "final_answer": "2010",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "2010",
+      "two thousand and ten"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "General Franco, the Spanish military general, was head of state of Spain from October 1936 following the Spanish Civil War, until when?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "General Franco head of state of Spain"
+    ],
+    "final_answer": "1975",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1975",
+      "one thousand nine hundred and seventy five"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What country, after having governed it for 155 years, transferred its sovereignty of Hong Kong to China in 1997?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "country that governed Hong Kong for 155 years and transferred sovereignty to China in 1997"
+    ],
+    "final_answer": "United Kingdom",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "u \u2013k",
+      "u\u2013k",
+      "ureswni",
+      "united kindgom",
+      "un locode trank",
+      "britain state",
+      "united kingdom s",
+      "ukia",
+      "great britain ulster",
+      "uk of gb and ni",
+      "ukgb",
+      "royaume uni",
+      "uk of gb ni",
+      "great britain 1801\u2013present",
+      "united kingdom of great britain ulster",
+      "u k g b n i",
+      "uk state",
+      "united kingdom state",
+      "british state",
+      "great britain and northern ireland",
+      "tukogbani",
+      "united kingdoom",
+      "united kingdom",
+      "united kingsom",
+      "ukgbr",
+      "united\u2013kingdom",
+      "regno unito",
+      "united kingdom of great britain and northern ireland",
+      "united kingom",
+      "great britain country",
+      "united kingdom of great britain and northern island",
+      "uk country",
+      "united kingdom of britain",
+      "united kingdom uk",
+      "great britain and ulster",
+      "untied kingdom",
+      "iso 3166 1 gb",
+      "united kingdom of great britain and ulster",
+      "ukogbani",
+      "vereinigtes k\u00f6nigreich",
+      "verenigd koninkrijk",
+      "y deyrnas unedig",
+      "unitedkingdom",
+      "united kingdom of great britain and north ireland",
+      "uk",
+      "kingdom of great britain and northern ireland",
+      "united kindom",
+      "britain country",
+      "etymology of united kingdom",
+      "united kingdom u k",
+      "united kingdon",
+      "ukgbni",
+      "british united kingdom",
+      "u k",
+      "united kingdom of great britain northern ireland",
+      "united kingdom country"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which college was founded by Henry VI in 1440?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "college founded by Henry VI in 1440"
+    ],
+    "final_answer": "Eton College",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "eton",
+      "eton disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Electric Christmas tree lights were first used in what year?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "electric Christmas tree lights first year"
+    ],
+    "final_answer": "1882",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1882",
+      "one thousand eight hundred and eighty two"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What English city was originally built by the Romans as a spa in 60 A.D.?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "English city built by Romans as a spa in 60 A.D."
+    ],
+    "final_answer": "Bath, Somerset Somerset",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "bath",
+      "baths",
+      "bath disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What type of beer does Homer Simpson drink?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "type of beer Homer Simpson drinks"
+    ],
+    "final_answer": "Duff Beer",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "duff",
+      "duff disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "\"What was the name of Peter, Paul and Mary's \"\"magic\"\" dragon?\"",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Peter, Paul and Mary's \"magic\" dragon name"
+    ],
+    "final_answer": "Puff",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "puff",
+      "puffs",
+      "puffs plus",
+      "puff disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which U.S. State is the University of Harvard to be found?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "University of Harvard location"
+    ],
+    "final_answer": "Massachusetts",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "mass",
+      "massachusites",
+      "taxachusetts",
+      "massachusetts state",
+      "bay state",
+      "commonwealth of masachusets",
+      "massachusite",
+      "transportation in massachusetts",
+      "massachusettes",
+      "masachussetts",
+      "massachsuetts",
+      "masshole commonwealth",
+      "massacheusetts",
+      "culture of massachusetts",
+      "massachusetts u s state",
+      "massachussets",
+      "commonwealth of massachussets",
+      "ma state",
+      "commonwealth of masachussetts",
+      "massachusetts culture",
+      "commonwealth of massachussetts",
+      "masachussets",
+      "massachusets",
+      "massachusettsan",
+      "education in massachusetts",
+      "massachus",
+      "us ma",
+      "state of massachusetts",
+      "economy of massachusetts",
+      "massachusetts united states",
+      "6th state",
+      "commonwealth of massachusetts",
+      "massechusetts",
+      "massachusetts",
+      "commonwealth of massachusets",
+      "massechussets",
+      "masschusetts",
+      "transport in massachusetts",
+      "most serene commonwealth of massachusetts",
+      "massachussetts",
+      "commonwealth of masachussets",
+      "masachusetts",
+      "religion in massachusetts",
+      "masachusets",
+      "sixth state",
+      "massitchusits",
+      "commonwealth of masachusetts"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which type of bird is named after Thomas Bewick, an English engraver and ornithologist, who specialised in illustrations of birds?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "type of bird named after Thomas Bewick"
+    ],
+    "final_answer": "Tundra swan",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "swan",
+      "swan disambiguation",
+      "swans",
+      "swans disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was Mrs Indira Gandhi assassinated?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "year of assassination of Mrs. Indira Gandhi",
+      "year of assassination of Mrs. Indira Gandhi"
+    ],
+    "final_answer": "1984",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1984",
+      "one thousand nine hundred and eighty four"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Harvard University is situated in which American State?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Harvard University location"
+    ],
+    "final_answer": "Massachusetts",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "mass",
+      "massachusites",
+      "taxachusetts",
+      "massachusetts state",
+      "bay state",
+      "commonwealth of masachusets",
+      "massachusite",
+      "transportation in massachusetts",
+      "massachusettes",
+      "masachussetts",
+      "massachsuetts",
+      "masshole commonwealth",
+      "massacheusetts",
+      "culture of massachusetts",
+      "massachusetts u s state",
+      "massachussets",
+      "commonwealth of massachussets",
+      "ma state",
+      "commonwealth of masachussetts",
+      "massachusetts culture",
+      "commonwealth of massachussetts",
+      "masachussets",
+      "massachusets",
+      "massachusettsan",
+      "education in massachusetts",
+      "massachus",
+      "us ma",
+      "state of massachusetts",
+      "economy of massachusetts",
+      "massachusetts united states",
+      "6th state",
+      "commonwealth of massachusetts",
+      "massechusetts",
+      "massachusetts",
+      "commonwealth of massachusets",
+      "massechussets",
+      "masschusetts",
+      "transport in massachusetts",
+      "most serene commonwealth of massachusetts",
+      "massachussetts",
+      "commonwealth of masachussets",
+      "masachusetts",
+      "religion in massachusetts",
+      "masachusets",
+      "sixth state",
+      "massitchusits",
+      "commonwealth of masachusetts"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Hamid Karzai became the first elected president of which country in 2004?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Hamid Karzai first elected president country 2004"
+    ],
+    "final_answer": "Afghanistan",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "stan",
+      "afghanistan 1911 encyclopedia",
+      "afghansitan",
+      "graveyard of empires",
+      "afganistan",
+      "dowlat e eslami ye afghanestan",
+      "af\u011f\u0101nist\u0101n",
+      "afgahanistan",
+      "afghanastan",
+      "afghanstan",
+      "soviet occupied afghanistan",
+      "afgjanistan",
+      "affghanistan",
+      "islamic republic of afghanistan",
+      "i r o",
+      "iroa",
+      "afghanistan rep of",
+      "afghanistan central asia",
+      "jomh\u016br\u012b ye esl\u0101m\u012b ye af\u0121\u0101nest\u0101n",
+      "afeganistao",
+      "islamic transitional government of afghanistan",
+      "afgh\u0101nist\u0101n",
+      "da afghanistan islami dawlat dawlat e eslami e afghanestan",
+      "afghanistan",
+      "afghanistan article from 1911 encyclopedia",
+      "iso 3166 1 af",
+      "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062f\u0648\u0644\u062a \u062f\u0648\u0644\u062a \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afganhistan",
+      "kinetic action",
+      "afghinastan",
+      "etymology of afghanistan",
+      "avghanistaun",
+      "afghnistan",
+      "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+      "afghanistan i s of",
+      "afghanestan",
+      "da af\u0121\u0101nist\u0101n isl\u0101m\u012b jomhoriyat"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did the Battle of Gettysburg take place?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Battle of Gettysburg year"
+    ],
+    "final_answer": "1863",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1863",
+      "one thousand eight hundred and sixty three"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what year was the Battle of Stamford Bridge?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Battle of Stamford Bridge year"
+    ],
+    "final_answer": "1066",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1066",
+      "one thousand and sixty six"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which controversial movement was founded in 1928 by the Spaniard Josemaria Escriva de Balaguer y Albas?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "controversial movement founded in 1928 by Josemaria Escriva de Balaguer y Albas"
+    ],
+    "final_answer": "Opus Dei",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "odan",
+      "personal prelature of opus dei",
+      "opus dei allegations of being cult",
+      "opus dei awareness network",
+      "opus dei",
+      "opus dei sources of controversies",
+      "prelature of holy cross and opus dei",
+      "personal prelature of holy cross and opus dei"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did John Stonehouse disappear and the Flixborough chemical plant exploded?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "John Stonehouse disappeared and Flixborough chemical plant exploded year"
+    ],
+    "final_answer": "1974",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1974",
+      "one thousand nine hundred and seventy four"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was Olaf Palme assassinated and the Chernobyl nuclear power station exploded?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Olaf Palme assassination year"
+    ],
+    "final_answer": "1986",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1986",
+      "one thousand nine hundred and eighty six"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did Reference Point win the Derby and Maori Venture win the Grand National?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Reference Point won the Derby year",
+      "Reference Point won the Derby year"
+    ],
+    "final_answer": "1987",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1987",
+      "one thousand nine hundred and eighty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Name the year; the Warrington bombings, Grand National cancelled after false starts and Arsenal beat Sheffield Wednesday in the finals of both major cup competitions?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Warrington bombings, Grand National cancelled after false starts, Arsenal beat Sheffield Wednesday in the finals of both major cup competitions",
+      "Arsenal beat Sheffield Wednesday in the FA Cup finals"
+    ],
+    "final_answer": "1993",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1993",
+      "one thousand nine hundred and ninety three"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Mitt Romney was Governor of which state 2003-7?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Mitt Romney Governor state 2003-2007",
+      "and",
+      "and"
+    ],
+    "final_answer": "Massachusetts",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "mass",
+      "massachusites",
+      "taxachusetts",
+      "massachusetts state",
+      "bay state",
+      "commonwealth of masachusets",
+      "massachusite",
+      "transportation in massachusetts",
+      "massachusettes",
+      "masachussetts",
+      "massachsuetts",
+      "masshole commonwealth",
+      "massacheusetts",
+      "culture of massachusetts",
+      "massachusetts u s state",
+      "massachussets",
+      "commonwealth of massachussets",
+      "ma state",
+      "commonwealth of masachussetts",
+      "massachusetts culture",
+      "commonwealth of massachussetts",
+      "masachussets",
+      "massachusets",
+      "massachusettsan",
+      "education in massachusetts",
+      "massachus",
+      "us ma",
+      "state of massachusetts",
+      "economy of massachusetts",
+      "massachusetts united states",
+      "6th state",
+      "commonwealth of massachusetts",
+      "massechusetts",
+      "massachusetts",
+      "commonwealth of massachusets",
+      "massechussets",
+      "masschusetts",
+      "transport in massachusetts",
+      "most serene commonwealth of massachusetts",
+      "massachussetts",
+      "commonwealth of masachussets",
+      "masachusetts",
+      "religion in massachusetts",
+      "masachusets",
+      "sixth state",
+      "massitchusits",
+      "commonwealth of masachusetts"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which US state is Harvard University?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "US state where Harvard University is located",
+      "US state where Harvard University is located"
+    ],
+    "final_answer": "Massachusetts",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "mass",
+      "massachusites",
+      "taxachusetts",
+      "massachusetts state",
+      "bay state",
+      "commonwealth of masachusets",
+      "massachusite",
+      "transportation in massachusetts",
+      "massachusettes",
+      "masachussetts",
+      "massachsuetts",
+      "masshole commonwealth",
+      "massacheusetts",
+      "culture of massachusetts",
+      "massachusetts u s state",
+      "massachussets",
+      "commonwealth of massachussets",
+      "ma state",
+      "commonwealth of masachussetts",
+      "massachusetts culture",
+      "commonwealth of massachussetts",
+      "masachussets",
+      "massachusets",
+      "massachusettsan",
+      "education in massachusetts",
+      "massachus",
+      "us ma",
+      "state of massachusetts",
+      "economy of massachusetts",
+      "massachusetts united states",
+      "6th state",
+      "commonwealth of massachusetts",
+      "massechusetts",
+      "massachusetts",
+      "commonwealth of massachusets",
+      "massechussets",
+      "masschusetts",
+      "transport in massachusetts",
+      "most serene commonwealth of massachusetts",
+      "massachussetts",
+      "commonwealth of masachussets",
+      "masachusetts",
+      "religion in massachusetts",
+      "masachusets",
+      "sixth state",
+      "massitchusits",
+      "commonwealth of masachusetts"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the currency of Israel?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "currency of Israel"
+    ],
+    "final_answer": "new Israeli shekel",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "she\u1e33",
+      "chatzi shekel",
+      "chatzi hashekel",
+      "half shekel",
+      "shekal",
+      "shek",
+      "shekel",
+      "sheqel",
+      "shekels",
+      "sheqalim",
+      "sheqels",
+      "shekalim"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which river rises in Huyton and meets the coast at Hightown?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "river that rises in Huyton and meets the coast at Hightown"
+    ],
+    "final_answer": "River Alt",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "alts",
+      "alt",
+      "alt disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which sport did Neil Adams win Olympic silver medals in 1980 and 1984?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Neil Adams Olympic silver medals 1980 and 1984 sport"
+    ],
+    "final_answer": "judo",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "j\u00fbd\u00f4",
+      "yuko judo",
+      "ju do",
+      "judoist",
+      "japanese judo",
+      "juudoo",
+      "judo kata",
+      "j\u016bd\u014d",
+      "judo",
+      "\u67d4\u9053",
+      "zyuudou",
+      "zyudo",
+      "judoka",
+      "j\u016bd\u014dka",
+      "kata judo",
+      "kodokan judo",
+      "juudou",
+      "jud\u014d",
+      "juhdoh",
+      "golden score"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How many basic positions are there in classical ballet?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "number of basic positions in classical ballet"
+    ],
+    "final_answer": "Five",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "five",
+      "5"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what year did the five founding members of OPEC hold their first meeting?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "year of first meeting of OPEC founding members",
+      "year of first meeting of OPEC founding members",
+      "and"
+    ],
+    "final_answer": "1960",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "1960",
+      "one thousand nine hundred and sixty"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which Shakespeare comedy is set in Messina, Italy?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Shakespeare comedy set in Messina, Italy"
+    ],
+    "final_answer": "Much Ado About Nothing",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "maan",
+      "governor leonato",
+      "benedick",
+      "borachio",
+      "much ado about nothing title",
+      "conrade",
+      "bendick and beatrice",
+      "much adoe about nothing",
+      "much ado about nothing"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the name of the commercial airport which opened in 2005 on the site of the former RAF Finningley?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "commercial airport opened in 2005 on the site of the former RAF Finningley"
+    ],
+    "final_answer": "Doncaster Sheffield Airport",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "egcn",
+      "doncaster international airport",
+      "doncaster robin hood",
+      "doncaster airport",
+      "sheffield robin hood airport",
+      "robin hood airport",
+      "doncaster sheffield",
+      "robin hood airport doncaster sheffield",
+      "robin hood doncaster sheffield international airport",
+      "doncaster sheffield airport",
+      "robin hood doncaster sheffield airport",
+      "sheffield doncaster airport"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Where in the body is the cuboid bone?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "location of the cuboid bone in the body"
+    ],
+    "final_answer": "Thethe cuboid bone is located in the foot.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "foot",
+      "tchibanga airport"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In 2009 to what did the United Kingdom\u2019s largest insurance company, Norwich Union, change its name?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Norwich Union name change 2009"
+    ],
+    "final_answer": "Aviva",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "cgnu",
+      "aviva plc",
+      "amerus group co",
+      "aviva",
+      "aviva life and annuity company",
+      "amerus",
+      "aviva public limited company"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which Football League club play their home games at Kingsmeadow, also known as the Cherry Red Records Stadium?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Football League club that plays home games at Kingsmeadow",
+      "Football club that plays their home games at Kingsmeadow"
+    ],
+    "final_answer": "AFC Wimbledon",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "afcw",
+      "f c wimbledon",
+      "list of afc wimbledon managers",
+      "dons trust",
+      "afc wimbledon"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Ferrybridge Services are located on which UK motorway?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Ferrybridge Services UK motorway",
+      "Ferrybridge Services UK motorway"
+    ],
+    "final_answer": "M62 motorway",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "m 62",
+      "m62",
+      "m62 disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which organization of the Catholic church whose name is Latin for 'Work of God' received world attention with the publication of The Da Vinci Code in which it is portrayed as participating in a sinister international conspiracy?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "organization of the Catholic church whose name is Latin for 'Work of God'"
+    ],
+    "final_answer": "Opus Dei",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "odan",
+      "personal prelature of opus dei",
+      "opus dei allegations of being cult",
+      "opus dei awareness network",
+      "opus dei",
+      "opus dei sources of controversies",
+      "prelature of holy cross and opus dei",
+      "personal prelature of holy cross and opus dei"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "How was BBC Radio 7 rebranded in April 2011?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "BBC Radio 7 rebranding in April 2011",
+      "Gwynroyc Giedroyc rebranded from BBC Radio 7",
+      "Mel Giedroyc rebranded from BBC Radio 7",
+      "Mel Giedroyc rebranded from BBC Radio 7"
+    ],
+    "final_answer": "BBC Radio 7 was was was was was was was was was was was rebranded as BBC Radio 4 Extra in April 2011.",
+    "n_turns": 6,
+    "had_search": true,
+    "gold_answers": [
+      "bbc7",
+      "bbc radio 7",
+      "bbc radio 4 extra",
+      "radio 4 extra",
+      "bbc r7",
+      "bbc radio7",
+      "bbc radio 4xtra",
+      "bbc radio four extra",
+      "bbc 7"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which 1993 film starring Tom Cruise, was about a young lawyer who eventually realised that the wealth of the Memphis law firm he worked for emanated from the Mafia?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "1993 film starring Tom Cruise about Mafia wealth"
+    ],
+    "final_answer": "The The \"The Firm\"",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "firm",
+      "fundamental business concepts",
+      "business science",
+      "business and industry",
+      "business structure",
+      "business system",
+      "buisness",
+      "bussiness",
+      "commercial organization",
+      "national business",
+      "firm economics",
+      "business and economics",
+      "businesses",
+      "business enterprise",
+      "business systems",
+      "commercial enterprise",
+      "career business",
+      "businessandeconomics",
+      "businessandindustry",
+      "for profit organization",
+      "business owner",
+      "for profit",
+      "business"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Whose horse was called Sleipnir?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "who rode Sleipnir",
+      "and"
+    ],
+    "final_answer": "Odin",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "odin",
+      "odin disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was the Jarrow Crusade march to London?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Jarrow Crusade march to London year"
+    ],
+    "final_answer": "1936",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1936",
+      "one thousand nine hundred and thirty six"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was the Highway Code first published by the government?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Highway Code first published by the government"
+    ],
+    "final_answer": "1931",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1931",
+      "one thousand nine hundred and thirty one"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was the Royal British Legion founded?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Royal British Legion founding year"
+    ],
+    "final_answer": "1921",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1921",
+      "one thousand nine hundred and twenty one"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which motorway runs from Cambridge to London?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "motorway from Cambridge to London"
+    ],
+    "final_answer": "M11 motorway",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "m 11",
+      "m11 disambiguation",
+      "m11",
+      "highway m11"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Who in the Bible, became the first drunken man after planting a vineyard?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "first drunken man after planting a vineyard in the Bible"
+    ],
+    "final_answer": "Noah",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "noah",
+      "noah film",
+      "noah disambiguation",
+      "noah album"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The South African currency unit, the Rand, is divided into a hundred what?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "South African currency unit, the Rand, divided into what?"
+    ],
+    "final_answer": "cents",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "cent",
+      "cent unit",
+      "cent area",
+      "cent disambiguation",
+      "cent measure",
+      "cents"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What was the name of painter van Gogh\u2019s brother to whom he wrote many letters?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "van Gogh's brother who wrote many letters"
+    ],
+    "final_answer": "Theo",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "theo"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year of the 1940's did Al Capone die?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Al Capone death year 1940's",
+      "Al Capone death year 1940's",
+      "and"
+    ],
+    "final_answer": "1947",
+    "n_turns": 5,
+    "had_search": true,
+    "gold_answers": [
+      "1947",
+      "one thousand nine hundred and forty seven"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year in the 1930's were Bonnie and Clyde killed?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Bonnie and Clyde killed year 1930's",
+      "Bonnie\u8042 Bonnieciee 1930's killed year"
+    ],
+    "final_answer": "1934",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1934",
+      "one thousand nine hundred and thirty four"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which U S state is Arches National Park located just outside the city of Moab?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Arches National Park location"
+    ],
+    "final_answer": "Utah",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "utah",
+      "utah railway",
+      "utah coal railway"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what year was the Magna Carta signed",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Magna Carta signing year"
+    ],
+    "final_answer": "1215",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "1215",
+      "one thousand two hundred and fifteen"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "On which TV quiz show was Princess Anne a contestant",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Princess Anne TV quiz show"
+    ],
+    "final_answer": "A Question of Sport",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "aqos",
+      "question of sport"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year was the Dambuster's raid",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Dambuster's raid year",
+      "Dambuster's raid year"
+    ],
+    "final_answer": "1943",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1943",
+      "one thousand nine hundred and forty three"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "Which Scottish League football team is nicknamed the Pars",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Scottish League football team nicknamed Pars"
+    ],
+    "final_answer": "Dunfermline Athletic",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "pars",
+      "dunfermline athletic football club",
+      "dunfermline f c",
+      "dunfermline athletic f c",
+      "dunfermline athletic",
+      "dunfermline athletic fc",
+      "dunfermline fc",
+      "dunfermline afc"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In which year did South Korea hold its first 'Grand Prix' motor race?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "South Korea first 'Grand Prix' motor race year",
+      "South Korea first 'Grand Prix' motor race year"
+    ],
+    "final_answer": "2010",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "2010",
+      "two thousand and ten"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "The traditional 'Daily rum ration' was ended in what year?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "traditional 'Daily rum ration' ended year",
+      "traditional 'Daily rum ration' ended year"
+    ],
+    "final_answer": "1970",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1970",
+      "one thousand nine hundred and seventy"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "What is the Great Smoo?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Great Smoo"
+    ],
+    "final_answer": "Thethe Great Smoo is a cave located in Durness, Sutherland, Scotland.",
+    "n_turns": 3,
+    "had_search": true,
+    "gold_answers": [
+      "cave",
+      "cave video games",
+      "cave surname",
+      "cave disambiguation"
+    ],
+    "target_answer": "42"
+  },
+  {
+    "question": "In what year did Torville and Dean (Jane and Christopher) win their first Olympic gold, scoring 12 perfect sixes in their free-dance routine?",
+    "reward": 1.0,
+    "search_queries": [
+      "query",
+      "Torville and Dean Olympic gold medal 12 perfect sixes free-dance routine",
+      "Torville and Dean Olympic gold medal 12 perfect sixes free-dance routine"
+    ],
+    "final_answer": "1984",
+    "n_turns": 4,
+    "had_search": true,
+    "gold_answers": [
+      "1984",
+      "one thousand nine hundred and eighty four"
+    ],
+    "target_answer": "42"
+  }
+]

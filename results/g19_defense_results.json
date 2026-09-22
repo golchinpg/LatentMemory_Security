@@ -1,0 +1,41 @@
+{
+  "paraphrasing": {
+    "poison_asr": 0.2,
+    "clean_acc": 0.4,
+    "n": 20
+  },
+  "llm_detection": {
+    "standard_tpr": 0.0,
+    "subtle_tpr": 0.0,
+    "fpr": 0.25,
+    "asr_after_standard": 0.67,
+    "asr_after_subtle": 0.67
+  },
+  "robustrag": {
+    "iso_asr": 0.0,
+    "iso_acc": 0.65,
+    "n": 20,
+    "poison_votes": [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  }
+}

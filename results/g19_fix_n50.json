@@ -1,0 +1,20 @@
+{
+  "llm_detection_7b_n50": {
+    "standard_tpr": 1.0,
+    "subtle_tpr": 1.0,
+    "fpr": 0.0,
+    "n_poison": 50,
+    "n_subtle": 50,
+    "n_real": 50,
+    "judge_model": "Qwen/Qwen2.5-7B-Instruct",
+    "asr_after_standard": 0.0,
+    "asr_after_subtle": 0.0
+  },
+  "paraphrasing_7b_n50": {
+    "gold_preservation_rate": 0.8266666666666667,
+    "target_preservation_rate": 1.0,
+    "n_tested": 50,
+    "n_passages": 150,
+    "paraphraser_model": "Qwen/Qwen2.5-7B-Instruct"
+  }
+}
